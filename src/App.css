@@ -54,6 +54,8 @@ footer p {
   .container {
     flex-direction: column;
     align-items: center;
+    gap: 10px; /* Ajusta o espaçamento entre os itens */
+    width: 100%; /* Garante que a largura da .container seja 100% */
   }
 
   .bio, .photos {
@@ -86,10 +88,11 @@ footer p {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   .container {
     flex-direction: row;
     justify-content: space-between;
+    gap: 20px; /* Espaçamento entre os itens */
   }
 
   .bio, .photos {
