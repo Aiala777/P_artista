@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/P_artista/static/css/main.f80788d1.css",
+    "main.css": "/P_artista/static/css/main.ec92c33d.css",
     "main.js": "/P_artista/static/js/main.610f45d5.js",
     "static/js/453.059169c1.chunk.js": "/P_artista/static/js/453.059169c1.chunk.js",
     "static/media/fa-solid-900.ttf": "/P_artista/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
@@ -16,12 +16,12 @@
     "static/media/fa-v4compatibility.ttf": "/P_artista/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/P_artista/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/P_artista/index.html",
-    "main.f80788d1.css.map": "/P_artista/static/css/main.f80788d1.css.map",
+    "main.ec92c33d.css.map": "/P_artista/static/css/main.ec92c33d.css.map",
     "main.610f45d5.js.map": "/P_artista/static/js/main.610f45d5.js.map",
     "453.059169c1.chunk.js.map": "/P_artista/static/js/453.059169c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f80788d1.css",
+    "static/css/main.ec92c33d.css",
     "static/js/main.610f45d5.js"
   ]
 }
