@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/P_artista/static/css/main.f80788d1.css",
+    "main.js": "/P_artista/static/js/main.610f45d5.js",
+    "static/js/453.059169c1.chunk.js": "/P_artista/static/js/453.059169c1.chunk.js",
+    "static/media/fa-solid-900.ttf": "/P_artista/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/P_artista/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/P_artista/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/WillPerfil.png": "/P_artista/static/media/WillPerfil.93be14c6df23f051794d.png",
+    "static/media/logo2.png": "/P_artista/static/media/logo2.38c1c6158e2c9c9b5fa5.png",
+    "static/media/willjorgeFotoSite2.jpeg": "/P_artista/static/media/willjorgeFotoSite2.bc378509b017953cf383.jpeg",
+    "static/media/fa-brands-400.woff2": "/P_artista/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/willjorgeFotoSite1.jpeg": "/P_artista/static/media/willjorgeFotoSite1.9bf10f3d6bbe576a7ffc.jpeg",
+    "static/media/fa-regular-400.ttf": "/P_artista/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/P_artista/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/P_artista/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/P_artista/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/P_artista/index.html",
+    "main.f80788d1.css.map": "/P_artista/static/css/main.f80788d1.css.map",
+    "main.610f45d5.js.map": "/P_artista/static/js/main.610f45d5.js.map",
+    "453.059169c1.chunk.js.map": "/P_artista/static/js/453.059169c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f80788d1.css",
+    "static/js/main.610f45d5.js"
+  ]
+}
