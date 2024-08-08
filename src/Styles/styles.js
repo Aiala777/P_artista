@@ -1,7 +1,8 @@
 // estilo do header
 export const headerStyle = {
     textAlign: 'center',
-    margin: '20px 0'
+    margin: '20px 0',
+    
  
 };
   
@@ -17,19 +18,19 @@ export const imageStyle = {
 // estilo criado para as imagens superiores da pagina (logo)
 export const imageStyle2 = {
     position: 'absolute',
-    top: '10px',
-    left: '10px',
+    top: '-40px',
+    left: '-30px',
     width: '200px',
     height: '200px',
-    objectFit: 'contain'
-    
+    objectFit: 'contain',
+
 };
 
 // estilo criado para as imagens inferiores da pagina (logo)
 export const imageStyle3 = {
     position: 'absolute',
     top: '10px',
-    left: '700px',
+    left: '500px',
     width: '200px',
     height: '200px',
     objectFit: 'contain'

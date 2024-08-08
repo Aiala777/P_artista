@@ -20,38 +20,40 @@ const Photos = () => {
     };
 
     return (
-        <section style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-            <div
-                onClick={handlePrevPhoto}
-                style={{
-                    cursor: 'pointer',
-                    fontSize: '24px',
-                    color: '#8B4513',
-                    margin: '0 20px',
-                }}
-            >
-                <i className="fas fa-chevron-left"></i> {/* Ícone de seta para a esquerda */}
-            </div>
-            <div style={{ textAlign: 'center' }}>
-                <img 
-                    src={photos[currentPhotoIndex].src} 
-                    alt={photos[currentPhotoIndex].alt} 
-                    style={{ width: '300px', height: '300px', borderRadius: '15px' }} 
-                />
-                <p>{photos[currentPhotoIndex].caption}</p>
-            </div>
-            <div
-                onClick={handleNextPhoto}
-                style={{
-                    cursor: 'pointer',
-                    fontSize: '24px',
-                    color: '#8B4513',
-                    margin: '0 20px',
-                }}
-            >
-                <i className="fas fa-chevron-right"></i> {/* Ícone de seta para a direita */}
-            </div>
-        </section>
+        <div className="photos-container">
+            <section style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <div
+                    onClick={handlePrevPhoto}
+                    style={{
+                        cursor: 'pointer',
+                        fontSize: '24px',
+                        color: '#8B4513',
+                        margin: '0 20px',
+                    }}
+                >
+                    <i className="fas fa-chevron-left"></i> {/* Ícone de seta para a esquerda */}
+                </div>
+                <div style={{ textAlign: 'center' }}>
+                    <img 
+                        src={photos[currentPhotoIndex].src} 
+                        alt={photos[currentPhotoIndex].alt} 
+                        style={{ width: '300px', height: '300px', borderRadius: '15px' }} 
+                    />
+                    <p>{photos[currentPhotoIndex].caption}</p>
+                </div>
+                <div
+                    onClick={handleNextPhoto}
+                    style={{
+                        cursor: 'pointer',
+                        fontSize: '24px',
+                        color: '#8B4513',
+                        margin: '0 20px',
+                    }}
+                >
+                    <i className="fas fa-chevron-right"></i> {/* Ícone de seta para a direita */}
+                </div>
+            </section>
+        </div>
     );
 };
 
